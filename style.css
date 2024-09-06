@@ -1,0 +1,53 @@
+.container{
+   
+  align-items: center;
+}
+
+
+
+
+.rameez{
+  margin: 100px;
+}
+hr{
+  margin: 100px 0
+  ;
+}
+.mobile-repair{
+  height: 100px;
+}
+.playing{
+  height: 100px;
+}
+
+.grid-contain {
+  display: inline-grid;
+  grid-template-columns: auto auto ;
+  gap: 50px;
+  padding: 10px;
+}
+.rameez{
+  border-radius: 50%;
+}
+.cloud{
+  display: flex;float: inline-end;
+}
+.cloud-2{
+  display: flex;
+  margin-top: 100px;
+}
+.closing-bar{
+  width: auto;
+  height: 200px;
+  background-color: lightseagreen;display: flex;align-items: center;justify-content: center;
+ 
+}
+.closing-bar > .rows{
+ margin: 10px; 
+}
+.middle-container{
+  background-color: white;
+}
+.about-me{
+  margin: 30px;
+}
